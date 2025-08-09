@@ -1,0 +1,1 @@
+# Predictive-Maintainance-of-Industrial-Machineries
