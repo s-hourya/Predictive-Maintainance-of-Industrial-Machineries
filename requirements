@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+flask
+dash
+matplotlib
+plotly
+ibm-watson-machine-learning
+ibm-cos-sdk
+requests
+mysql-connector-python
