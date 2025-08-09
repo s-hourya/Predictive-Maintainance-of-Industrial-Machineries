@@ -1,0 +1,6 @@
+{
+  "apikey": "YOUR_IBM_CLOUD_API_KEY",
+  "url": "https://us-south.ml.cloud.ibm.com",
+  "instance_id": "YOUR_INSTANCE_ID",
+  "space_id": "YOUR_SPACE_ID"
+}
