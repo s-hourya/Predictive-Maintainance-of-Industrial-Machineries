@@ -1,0 +1,22 @@
+
+---
+
+### `environment.yml`
+```yaml
+name: predictive-maintenance
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - tensorflow
+  - flask
+  - dash
+  - matplotlib
+  - plotly
+  - pip
+  - pip:
+      - ibm-watson-machine-learning
+      - ibm-cos-sdk
+      - requests
+      - mysql-connector-python
